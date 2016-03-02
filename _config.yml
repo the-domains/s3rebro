@@ -1,7 +1,7 @@
 name: s3rebro
 favicon: null
-layout_spectrum: 0.27046754700131714
-typography_spectrum: 0.261858987621963
+layout_spectrum: 0.23777
+typography_spectrum: 0.38072
 cta:
   domain: null
   bucket: null
