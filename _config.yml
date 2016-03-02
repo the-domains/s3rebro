@@ -1,6 +1,6 @@
 name: s3rebro
 favicon: null
-layout_spectrum: 0.3788
+layout_spectrum: 0.86789
 typography_spectrum: 0.38072
 title: S3rebro
 cta:
@@ -23,7 +23,7 @@ color:
     - '#a5c4c6'
     - '#d2bc2a'
   brandStrength: 0.5
-  lightness: 0.1875
+  lightness: 0.25
   saturation: 0.6875
   rhythmicContrast: 0.5
 purpose: []
