@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[s3rebro]]></title>
+        <description><![CDATA[s3rebro]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 17:35:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Casa Puros dieces]]></title>
+            <description><![CDATA[<article><h1>Casa Puros dieces</h1><p>Arquitectura: Charly Wittock, Bruselas, Belgica Area: 750m2. Ubicación: Tamarindo, Guanacaste</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/951570f1005b19f03ccd78c9ed9e9f0c6b4b7a12.jpg"></article>]]></description>
+            <link>undefinedcasa-puros-dieces/index.html</link>
+            <guid isPermaLink="false">501ae927-dcef-4861-a20a-606e9f398243</guid>
+            <pubDate>Wed, 02 Mar 2016 17:35:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
