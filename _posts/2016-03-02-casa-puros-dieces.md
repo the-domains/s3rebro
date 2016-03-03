@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Arquitectura: Charly Wittock, Bruselas, Belgica Area: 750m2. Ubicación: Tamarindo, Guanacaste'
-datePublished: '2016-03-03T01:35:04.007Z'
-dateModified: '2016-03-03T01:35:03.618Z'
+datePublished: '2016-03-03T01:50:32.292Z'
+dateModified: '2016-03-03T01:49:54.622Z'
 title: Casa Puros dieces
 author: []
 sourcePath: _posts/2016-03-02-casa-puros-dieces.md
@@ -29,7 +29,7 @@ de 750m2 de estilo balines tropical tiene una ubicación excepcional
 en las montañas de Tamarindo, Guanacaste. La piscina ubicada en la pendiente es
 una excelente muestra de como un desafío de ingeniería se traduce en lujo y
 confort. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6ab725b3281b38e3ea1c87def6b938c7363da72.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65928903-313c-4886-86b6-12d8da4f3d1e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b63b9e1-d6cb-476d-8186-304ed082e751.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16d60697-2eb2-4209-bfdb-5a26d9256d13.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdb7d418-301d-478e-b2e4-e297308c54ca.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc19b8ee9f0dca9b262b321789bdc5c1dae5f287.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f07b84a8d269fe3ff8f492e93223cce8f2cdbae0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/153154adc057df634887bf29a82418608c4c634b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/af1d900582d4868625b4fee29b9152782d2f7528.jpg)
