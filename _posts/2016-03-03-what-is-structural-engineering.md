@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=od_MpNUzeCE'
+inLanguage: null
+starred: false
+keywords: []
+description: "The sheer scope of structural engineering work isn't easily summed up in one sentence. The profession is marked by all kinds of specialists, from seismic experts to those who specialise in disaster relief, and on all kinds of scale - from home improvements to skyscraper construction. This video explains the work of structural engineers."
+datePublished: '2016-03-03T01:50:26.003Z'
+dateModified: '2016-03-03T01:44:50.891Z'
 author:
   - name: The Institution Of Structural Engineers
     url: 'https://www.youtube.com/user/InstitutionofSE'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "The sheer scope of structural engineering work isn't easily summed up in one sentence. The profession is marked by all kinds of specialists, from seismic experts to those who specialise in disaster relief, and on all kinds of scale - from home improvements to skyscraper construction. This video explains the work of structural engineers."
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=od_MpNUzeCE'
 title: What is Structural Engineering?
-datePublished: '2016-03-03T01:44:41.968Z'
-dateModified: '2016-03-03T01:44:14.845Z'
 sourcePath: _posts/2016-03-03-what-is-structural-engineering.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
