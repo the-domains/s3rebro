@@ -4,7 +4,7 @@
         <description><![CDATA[S3rebro]]></description>
         <link>https://thegrid.ai/s3rebro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 01:57:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 21:03:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/s3rebro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Structural Engineering?]]></title>
@@ -12,24 +12,6 @@
             <link>https://www.youtube.com/watch?v=od_MpNUzeCE</link>
             <guid isPermaLink="false">bca69103-2d66-48b4-9111-f1c0eff058bd</guid>
             <pubDate>Thu, 03 Mar 2016 01:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Casa Alang Alang]]></title>
-            <description><![CDATA[<article><h1>Casa Alang Alang</h1><p>Casa Alang
-Alang con sus 1400m2 de construcción, es una impresionante casa de
-vacaciones de lujo. Con un sistema de piscinas en varios niveles, estructuras
-de madera hechas a mano y un sistema de control inteligente de iluminación demuestra
-una vez más que los esfuerzos de diseño se ven reflejados en resultados.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22ec704e52a3b5a16e46c8bf947ad31355fdbfd8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/s3rebro/becd95f2-53db-4e14-9f3f-484324a5815b/index.html</link>
-            <guid isPermaLink="false">becd95f2-53db-4e14-9f3f-484324a5815b</guid>
-            <pubDate>Thu, 03 Mar 2016 01:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Casa Puros dieces]]></title>
-            <description><![CDATA[<article><h1>Casa Puros dieces</h1><p>Arquitectura: Charly Wittock, Bruselas, Belgica Area: 750m2. Ubicación: Tamarindo, Guanacaste</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6ab725b3281b38e3ea1c87def6b938c7363da72.jpg"></article>]]></description>
-            <link>https://thegrid.ai/s3rebro/casa-puros-dieces/index.html</link>
-            <guid isPermaLink="false">501ae927-dcef-4861-a20a-606e9f398243</guid>
-            <pubDate>Thu, 03 Mar 2016 01:50:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
